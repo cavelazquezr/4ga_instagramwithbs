@@ -1,0 +1,10 @@
+.pdn {
+    padding: 10px 120px 10px 120px;
+}
+
+.sqr img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+}
